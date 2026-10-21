@@ -1,9 +1,6 @@
 # E-Parking — UKK RPL
 
 Aplikasi manajemen parkir berbasis web. Backend menggunakan **PHP native tanpa framework**, antarmuka menggunakan **React**, dan rancangan basis data menggunakan **MySQL/MariaDB**.
-
-> Status saat ini: fondasi PHP native + React/Vite dan lima fitur tambahan telah diimplementasikan. Test backend (SQLite in-memory), PHP lint, dan build frontend berhasil. File setup SQL disiapkan untuk database baru `e_parking_ukk_app`; belum dijalankan. Database lama `parkir` tetap tidak disentuh.
-
 ## Teknologi dan batas sistem
 
 - Backend: PHP native, REST API JSON, PDO untuk akses MySQL/MariaDB.
